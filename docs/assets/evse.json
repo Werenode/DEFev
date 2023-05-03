@@ -1,0 +1,67 @@
+[
+  {
+  "evseId": "2",
+  "location": "Downtown Plug",
+  "address": {
+    "address": "23 rue des Saturnins",
+    "zipcode": 73450,
+    "city": "Noireuil"
+  },
+  "pricePerKWH": 0.15,
+  "power": 3,
+  "plugs": "has_Domestic_Female_EF",
+  "evseOwner": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManager": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManagerAddress": "Defev",
+  "evseContract": "standard"
+  },
+  {
+  "evseId": "3",
+  "location": "Uptown Plug",
+  "address": {
+    "address": "25 rue retsu Saturnins",
+    "zipcode": 83457,
+    "city": "Madrid"
+  },
+  "pricePerKWH": 0.25,
+  "power": 3,
+  "plugs": "has_Domestic_Female_EF",
+  "evseOwner": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManager": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManagerAddress": "Defev",
+  "evseContract": "standard"
+  },
+  {
+  "evseId": "4",
+  "location": "Rightown Plug",
+  "address": {
+    "address": "25 rue desne Saturnins",
+    "zipcode": 94050,
+    "city": "Rome"
+  },
+  "pricePerKWH": 0.25,
+  "power": 3,
+  "plugs": "has_Domestic_Female_EF",
+  "evseOwner": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManager": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManagerAddress": "Defev",
+  "evseContract": "standard"
+  },
+  {
+  "evseId": "5",
+  "location": "Lefttown Plug",
+  "address": {
+    "address": "25 rue des Saturninsu",
+    "zipcode": 73666,
+    "city": "Athens"
+  },
+  "pricePerKWH": 0.25,
+  "power": 3,
+  "plugs": "has_Domestic_Female_EF",
+  "evseOwner": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManager": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManagerAddress": "Defev",
+  "evseContract": "standard"
+  }
+
+]

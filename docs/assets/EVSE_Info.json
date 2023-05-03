@@ -1,0 +1,101 @@
+[
+  {
+  "meta": {
+    "contract": "dummy_contract",
+    "time": "dummy_time",
+    "height": 123,
+    "block": "dummy_block"
+  },
+  "value": {
+    "admin": "dummy_admin",
+    "admin_candidate": "dummy_admin_candidate",
+    "gps": "dummy_gps",
+    "currency": 456,
+    "plugs": [1, 2, 3],
+    "state": 789,
+    "users": ["user1", "user2"],
+    "service": {
+      "service_id": "dummy_service_id",
+      "name": "dummy_service_name",
+      "type": "dummy_service_type",
+      "version": "dummy_service_version",
+      "endpoint": "dummy_service_endpoint"
+    }
+  }
+},
+{
+  "meta": {
+    "contract": "new_contract",
+    "time": "new_time",
+    "height": 456,
+    "block": "new_block"
+  },
+  "value": {
+    "admin": "new_admin",
+    "admin_candidate": "new_admin_candidate",
+    "gps": "new_gps",
+    "currency": 789,
+    "plugs": [4, 5, 6],
+    "state": 123,
+    "users": ["user3", "user4"],
+    "service": {
+      "service_id": "new_service_id",
+      "name": "new_service_name",
+      "type": "new_service_type",
+      "version": "new_service_version",
+      "endpoint": "new_service_endpoint"
+    }
+  }
+}
+,
+{
+  "meta": {
+    "contract": "other_contract",
+    "time": "other_time",
+    "height": 789,
+    "block": "other_block"
+  },
+  "value": {
+    "admin": "other_admin",
+    "admin_candidate": "other_admin_candidate",
+    "gps": "other_gps",
+    "currency": 123,
+    "plugs": [7, 8, 9],
+    "state": 456,
+    "users": ["user5", "user6"],
+    "service": {
+      "service_id": "other_service_id",
+      "name": "other_service_name",
+      "type": "other_service_type",
+      "version": "other_service_version",
+      "endpoint": "other_service_endpoint"
+    }
+  }
+}
+,
+{
+  "meta": {
+    "contract": "some_contract",
+    "time": "some_time",
+    "height": 321,
+    "block": "some_block"
+  },
+  "value": {
+    "admin": "some_admin",
+    "admin_candidate": "some_admin_candidate",
+    "gps": "some_gps",
+    "currency": 654,
+    "plugs": [10, 11, 12],
+    "state": 987,
+    "users": ["user7", "user8"],
+    "service": {
+      "service_id": "some_service_id",
+      "name": "some_service_name",
+      "type": "some_service_type",
+      "version": "some_service_version",
+      "endpoint": "some_service_endpoint"
+    }
+  }
+}
+
+]
