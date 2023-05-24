@@ -1,0 +1,25 @@
+
+{
+  "meta": {
+    "contract": "new_contract",
+    "time": "new_time",
+    "height": 456,
+    "block": "new_block"
+  },
+  "value": {
+    "admin": "new_admin",
+    "admin_candidate": "new_admin_candidate",
+    "gps": "new_gps",
+    "currency": 789,
+    "plugs": [4, 5, 6],
+    "state": 123,
+    "users": ["user3", "user4"],
+    "service": {
+      "service_id": "new_service_id",
+      "name": "new_service_name",
+      "type": "new_service_type",
+      "version": "new_service_version",
+      "endpoint": "new_service_endpoint"
+    }
+  }
+}

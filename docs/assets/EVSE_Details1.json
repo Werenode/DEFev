@@ -1,0 +1,9 @@
+
+{
+  "evse_addr": "dummy_evse_addr_1",
+  "evse_mng_addr": "dummy_evse_mng_addr_1",
+  "evse_owner": "dummy_evse_owner_1",
+  "evse_mng_url": "dummy_evse_mng_url_1",
+  "evse_mng_id": "dummy_evse_mng_id_1",
+  "evseId": "1"
+}
