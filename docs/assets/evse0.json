@@ -1,0 +1,21 @@
+
+  {
+  "evseId": "2",
+  "location": "Downtown Plug",
+  "address": {
+    "address": "23 rue des Saturnins",
+    "zipcode": 73450,
+    "city": "Noireuil"
+  },
+  "pricePerKWH": 0.15,
+  "power": 3,
+  "plugs": "has_Domestic_Female_EF",
+  "evseOwner": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManager": "0x25f51A384BB2bAB0933b4681E9e19a4328CB7AdA",
+  "evseManagerAddress": "Defev",
+  "evseContract": "standard"
+  }
+ 
+  
+
+
